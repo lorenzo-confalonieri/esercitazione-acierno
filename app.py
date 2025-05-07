@@ -57,5 +57,5 @@ for titolo in titoli:  # Itera sulla lista di titoli.
     print("Titolo:", titolo.strip())  # Stampa il titolo.
     print("Punteggio:", punteggio2)  # Stampa il punteggio calcolato.
     print("Classificazione:", notizia(punteggio2))  # Stampa la classificazione del titolo.
-    print("-" * 30)  # Stampa una linea di separazione.
+    
 
